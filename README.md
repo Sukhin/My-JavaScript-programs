@@ -1,2 +1,2 @@
 # My-JavaScript-programs
-Learning javascript syntax
+Learning syntax javascript 
